@@ -130,7 +130,9 @@ ISSUES I RAN INTO
 - Google Login not working
 	- Make sure IP Address is added in files and xip.io is configured
 
-
+THIRD PARTY RESOURCES
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#step-one%E2%80%94-install-and-enable-mod_wsgi
+- Amazon LightSail Documentation
 
 
 
